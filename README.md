@@ -1,5 +1,7 @@
 # Mi primera App
 
+This is an application built with react and deployed in Vercel
+
 This directory is a brief example of a [Create React App](https://github.com/facebook/create-react-app) site that can be deployed to Vercel with zero configuration.
 
 ## Deploy Your Own
